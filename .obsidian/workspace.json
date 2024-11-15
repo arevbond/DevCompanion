@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "351b9a263d15f9e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffcdf2786349d074",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb1f70bbfef395dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💡🎯 Knowledge Goals.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "💡🎯 Knowledge Goals"
+            }
+          },
+          {
+            "id": "1f9e74a60a899473",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основы/Принципы программирования/SOLID.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SOLID"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed16acb5483c73c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eeb9f51a773dd16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85bcbd884ad09aa7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "592b796d6497e8f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "90a889a084b033a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e17ce2ea651cba3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "137d9890b485c680",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "715742dc25ab32d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "💡🎯 Knowledge Goals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 💡🎯 Knowledge Goals"
+            }
+          },
+          {
+            "id": "220da98f4b570b61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Knowledge Goals.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Knowledge Goals"
+            }
+          },
+          {
+            "id": "3bccdf9813798a06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7e1c2c3b1a80fe5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Knowledge Goals.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Knowledge Goals"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "1f9e74a60a899473",
+  "lastOpenFiles": [
+    "💡🎯 Knowledge Goals.md",
+    "Операционный системы и окружение/Сети/Протоколы/HTTP.md",
+    "Основы/Принципы программирования/SOLID.md",
+    "Основная структура DevCompanion.md",
+    "Брокеры сообщений.md",
+    "Основы/Принципы программирования",
+    "Основы",
+    "Советы по созданию заметок.md",
+    "Инструменты и технологии/Брокеры сообщений/Apache Kafka/Основы Kafka.md",
+    "Инструменты и технологии/Брокеры сообщений/Гарантии поставки данных.md",
+    "__Assets/Kafka/rebalancing.gif",
+    "__Assets/Kafka/Pasted image 20241114141302.png",
+    "__Assets/Kafka/Pasted image 20241114142930.png",
+    "__Assets/Kafka/Pasted image 20241114152201.png",
+    "__Assets/Kafka/Pasted image 20241114151733.png",
+    "__Assets/Kafka/Pasted image 20241114151146.png",
+    "__Assets/Kafka/Pasted image 20241114145534.png",
+    "__Assets/Kafka/Pasted image 20241114144807.png",
+    "__Assets/Kafka/Pasted image 20241114144317.png",
+    "__Assets/Kafka/Pasted image 20241114143620.png",
+    "Инструменты и технологии/Брокеры сообщений/Apache Kafka/Kafka vs RabbitMQ.md",
+    "Операционный системы и окружение/Сети/Протоколы",
+    "Операционный системы и окружение/Сети",
+    "Операционный системы и окружение",
+    "__Assets/Kafka",
+    "Инструменты и технологии/Брокеры сообщений/Apache Kafka",
+    "Инструменты и технологии/Брокеры сообщений",
+    "Инструменты и технологии",
+    "__Assets",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
