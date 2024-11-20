@@ -1,0 +1,2 @@
+- [ ] Заметка по лекции [Интерфейсы в Go](https://www.youtube.com/watch?v=SZx5yuh3LPU&t=182s)
+- [ ] Заметка по лекции [Знакомство с модулями в Go](https://www.youtube.com/watch?v=EvS2Kzx0Fco)
